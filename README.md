@@ -70,6 +70,10 @@ Some cool repos include:
 - 📧 Email: [mwecauictclub@gmail.com](mailto:mwecauictclub@gmail.com)  
 - 📍 Located at: Mwenge Catholic University, Moshi, Tanzania
 
+<p align="center">
+  <i>🚀 Innovating Through Technology | Empowering Future Tech Leaders</i>  
+</p>
+
 ---
 
 <p align="center">
