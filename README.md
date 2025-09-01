@@ -3,7 +3,7 @@
   <img src="https://mwecauictclub.ac.tz/path-to-your-banner.gif" alt="MWECAU ICT Club Banner" width="80%" />
 </p>
 
-<h1 align="center">👨‍💻 MWECAU ICT Club – Official GitHub</h1>
+<h1 align="center">MWECAU ICT Club – Official GitHub</h1>
 
 <p align="center">
   <i>Empowering innovation through collaboration and hands-on learning.</i>  
