@@ -37,7 +37,7 @@ We’re organized into six dynamic departments:
 
 ---
 
-## 🚀 Projects You’ll Find Here
+##  Projects You’ll Find Here
 
 > We use this GitHub to showcase the amazing work created by our club members.
 
