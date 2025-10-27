@@ -17,23 +17,23 @@
 
 ---
 
-## 🌐 About the Club
+##  About the Club
 
 > The **ICT Club** at **Mwenge Catholic University (MWECAU)** is a vibrant student-led initiative focused on technology, innovation, and real-world application of ICT knowledge. We host workshops, build projects, and collaborate to shape future tech leaders.
 
 ---
 
-## 💡 Focus Areas
+##  Focus Areas
 
 <!-- Animated Icons via Giphy or Lottie (alternatively, use emoji dynamics) -->
 We’re organized into six dynamic departments:
 
-- 💻 **Programming** – Software development in Python, JavaScript, PHP, etc.  
-- 🔐 **Cybersecurity** – Ethical hacking, digital forensics, and secure computing.  
-- 🌐 **Networking** – Design and implementation of robust networks.  
-- 🛠️ **Computer Maintenance** – Hardware/software troubleshooting and repair.  
-- 🎨 **Graphic Design** – Visual design using Adobe tools & Canva.  
-- 🤖 **Artificial Inteligance(AI) & Machine Learning** – AI-driven automation and prototyping.
+-  **Programming** – Software development in Python, JavaScript, PHP, etc.  
+-  **Cybersecurity** – Ethical hacking, digital forensics, and secure computing.  
+-  **Networking** – Design and implementation of robust networks.  
+-  **Computer Maintenance** – Hardware/software troubleshooting and repair.  
+-  **Graphic Design** – Visual design using Adobe tools & Canva.  
+-  **Artificial Inteligance(AI) & Machine Learning** – AI-driven automation and prototyping.
 
 ---
 
@@ -43,35 +43,35 @@ We’re organized into six dynamic departments:
 
 Some cool repos include:
 
-- 🧑‍🎓 Student Information Systems  
-- 🌐 Websites & Admin Dashboards  
-- 🔐 Security Tools & Simulations  
-- 🏠 Home Automation Experiments  
-- 🎨 UI/UX Prototypes  
-- 🤖 Robot Control Systems
+-  Student Information Systems  
+-  Websites & Admin Dashboards  
+-  Security Tools & Simulations  
+-  Home Automation Experiments  
+-  UI/UX Prototypes  
+-  Robot Control Systems
 
 ---
 
-## 👥 Membership Tiers
+##  Membership Tiers
 
 | Tier               | Description |
 |--------------------|-------------|
-| 🧑‍🎓 **Honorary**   | Current ICT/CS students |
-| 🤝 **Associate**   | Other students with interest |
-| 🎓 **Expert**      | Graduated mentors |
+|  **Honorary**   | Current ICT/CS students |
+|  **Associate**   | Other students with interest |
+|  **Expert**      | Graduated mentors |
 
 > **Everyone is welcome** – We grow through collaboration.
 
 ---
 
-## 🔗 Connect With Us
+##  Connect With Us
 
-- 🌍 [Official Website](https://mwecauictclub.ac.tz)  
-- 📧 Email: [mwecauictclub@gmail.com](mailto:mwecauictclub@gmail.com)  
-- 📍 Located at: Mwenge Catholic University, Moshi, Tanzania
+-  [Official Website](https://mwecauictclub.ac.tz)  
+-  Email: [mwecauictclub@gmail.com](mailto:mwecauictclub@gmail.com)  
+-  Located at: Mwenge Catholic University, Moshi, Tanzania
 
 <p align="center">
-  <i>🚀 Innovating Through Technology | Empowering Future Tech Leaders</i>  
+  <i> Innovating Through Technology | Empowering Future Tech Leaders</i>  
 </p>
 
 ---
@@ -84,7 +84,7 @@ Some cool repos include:
 
 <!-- Optional footer -->
 <p align="center">
-  ⭐ Star our repositories to support student innovation!
+   Star our repositories to support student innovation!
 </p>
 # mwecauictclub
 # mwecauictclub
