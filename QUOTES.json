@@ -6,11 +6,11 @@
     "role": "Student Technology Club — Mwenge Catholic University",
     "type": "current"
   },
-  {
-    "quote": "I didn't study computer science — I weaponized it.",
-    "name": "Cleven",
-    "year": 2026,
-    "role": "Project Manager",
-    "type": "current"
-  }
+{
+  "quote": "The best code I ever wrote was convincing others they could write it too.",
+  "name": "Cleven",
+  "year": 2026,
+  "role": "Backend Developer & Project Manager",
+  "type": "current"
+}
 ]
